@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "package": "pauln07.pentiumplus.mixin.baritone",
+    "compatibilityLevel": "JAVA_17",
+    "plugin": "pauln07.pentiumplus.MixinPlugin",
+    "client": [
+        "ComeCommandMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

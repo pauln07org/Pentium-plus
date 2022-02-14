@@ -1,0 +1,15 @@
+{
+  "required": false,
+  "package": "pauln07.pentiumplus.mixin.sodium",
+  "compatibilityLevel": "JAVA_17",
+  "plugin": "pauln07.pentiumplus.MixinPlugin",
+  "client": [
+    "LightDataAccessMixin",
+    "SodiumBlockOcculsionCacheMixin",
+    "SodiumBlockRendererMixin",
+    "SodiumFluidRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
