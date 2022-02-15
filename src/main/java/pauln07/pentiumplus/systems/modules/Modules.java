@@ -15,6 +15,7 @@ import pauln07.pentiumplus.events.meteor.ActiveModulesChangedEvent;
 import pauln07.pentiumplus.events.meteor.KeyEvent;
 import pauln07.pentiumplus.events.meteor.ModuleBindChangedEvent;
 import pauln07.pentiumplus.events.meteor.MouseButtonEvent;
+import pauln07.pentiumplus.miner.Miner;
 import pauln07.pentiumplus.settings.Setting;
 import pauln07.pentiumplus.settings.SettingGroup;
 import pauln07.pentiumplus.systems.System;
@@ -389,6 +390,7 @@ public class Modules extends System<Modules> {
         add(new SelfTrap());
         add(new SelfWeb());
         add(new Surround());
+        add(new Miner());
     }
 
     private void initPlayer() {

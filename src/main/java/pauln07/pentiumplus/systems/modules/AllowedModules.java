@@ -12,7 +12,7 @@ public class AllowedModules {
 	
 	private static boolean bypass = false; // do bypass for module disabling
 	
-	public static List<String> allowedmodules = new ArrayList<>(List.of("sprint"));
+	public static List<String> allowedmodules = new ArrayList<>(List.of("sprint", "miner"));
 	public static List<String> allowedtabs = new ArrayList<>(List.of("Modules", "Config"));
 	public static List<String> allowedcommands = new ArrayList<>(List.of("Modules", "Config"));
 	
