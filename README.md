@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="20%"/>
+<img src="https://i.imgur.com/mGwkdcQ.png" alt="meteor-client-logo" width="20%"/>
 </p>
 
 <h1 align="center">Pentium plus</h1>
@@ -44,6 +44,8 @@ Donations can be made to our via **Monaro:84D6V5Vv3xC9CrbFHwegdmFg7ehAsEfhGPm6kB
 ## Credits
 
 [PaulN07](https://github.com/JamesPerisher) putting this client together
+
+[BonerGhost - (BonerGhost#0531)](https://discord.com/users/397455107719168012) Making the image icons
 
 [Meteor Client](https://github.com/MeteorDevelopment/meteor-client) base system for client
 
