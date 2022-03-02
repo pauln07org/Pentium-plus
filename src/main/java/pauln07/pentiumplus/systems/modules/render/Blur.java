@@ -60,8 +60,8 @@ public class Blur extends Module {
     // Screens
 
     private final Setting<Boolean> meteor = sgScreens.add(new BoolSetting.Builder()
-        .name("meteor")
-        .description("Applies blur to Meteor screens.")
+        .name("Pentium Plus")
+        .description("Applies blur to Pentium Plus screens.")
         .defaultValue(true)
         .build()
     );

@@ -34,7 +34,7 @@ public class ChatUtils {
         PREFIX = new LiteralText("")
             .setStyle(Style.EMPTY.withFormatting(Formatting.GRAY))
             .append("[")
-            .append(new LiteralText("Meteor").setStyle(Style.EMPTY.withColor(new TextColor(AddonManager.METEOR.color.getPacked()))))
+            .append(new LiteralText("Pentium Plus").setStyle(Style.EMPTY.withColor(new TextColor(AddonManager.METEOR.color.getPacked()))))
             .append("] ");
     }
 
